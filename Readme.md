@@ -1,1 +1,1 @@
-Este projeto é uma calculadora simples usando conceitos basicos de Python.
+Olá, este projeto é uma calculadora simples usando conceitos basicos de Python.
